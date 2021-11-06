@@ -1,0 +1,1 @@
+Please add DATASET and MNIST to this folder before running the program.
